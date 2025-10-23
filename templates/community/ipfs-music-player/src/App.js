@@ -17,7 +17,7 @@ function App() {
       sources: {
         // Set source by importing the music file via relative path
         // Supported formats: mp3, m4a, oga, flac, wav, flv, and more!
-        m4a: Vultures,
+        mp3: Vultures,
       },
       free: true,
     };
